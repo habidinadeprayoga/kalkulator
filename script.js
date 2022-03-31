@@ -1,3 +1,4 @@
+//codingan habidinadeprayoga
 function getHistory(){
     return document.getElementById("histori-nilai").innerText;
 }
